@@ -1,0 +1,13 @@
+*.env
+
+*.fig
+*.xd
+
+.DS_Store
+.prettierignore
+.thumbnail
+.README_template
+
+# Ignore Folders
+design/ 
+
